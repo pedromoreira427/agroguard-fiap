@@ -10,22 +10,22 @@
 
 <br>
 
-# [Nome da atividade no portal] - Ir Além X
+# Nome do projeto/atividade
 
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 2</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 3</a> 
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 4</a> 
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 5</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Caique Nonato</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do Tutor</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi</a>
+- <a href="https://www.linkedin.com/in/andregodoichiovato/">Nome do Coordenador</a>
 
 
 ## 📜 Descrição

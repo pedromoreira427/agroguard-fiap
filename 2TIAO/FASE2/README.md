@@ -10,7 +10,7 @@
 
 <br>
 
-# 🚀 FASE X — [Nome da Fase]
+# 🚀 FASE 2 — [Nome da Fase]
 ## 📚 Graduação ON em Inteligência Artificial
 
 ---

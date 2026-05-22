@@ -15,15 +15,15 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 1 - RM</a>
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 2 - RM</a>
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 3 - RM</a> 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 4 - RM</a> 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Nome do integrante 5 - RM</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 2</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 3</a> 
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 4</a> 
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 5</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/in/caique-nonato/">Caique Nonato</a>
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do Tutor</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">Nome do Coordenador</a>
 
@@ -37,17 +37,15 @@
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>docs</b>: Pasta destinada à documentação textual, incluindo brainstorm, atas e registros de reuniões, desenhos, prints, diagramas, storyboard, estratégia de IA e arquitetura do sensor (ESP32, Wokwi, etc.).
+- <b>docs</b>: Pasta destinada à documentação textual, incluindo brainstorm, atas e registros de reuniões, desenhos, prints, diagramas, storyboard, estratégia de IA e arquitetura e etc.
 
-- <b>src</b>: Todo o código fonte desenvolvido, como scripts em Python, R, JS ou HTML, notebooks, códigos para ESP32/Arduino, APIs ou microsserviços, além de modelos, inferências e logs.
+- <b>src</b>: Todo o código fonte desenvolvido, como scripts em Python, R, JS ou HTML, notebooks, códigos para ESP32/Arduino, APIs ou microsserviços, além de modelos, inferências e etc. Os tipos de arquivos e códigos variam de acordo com a atividade.
 
-- <b>data</b>: Contém os dados utilizados, como arquivos CSV, Excel, JSON, bases sintéticas e amostras geradas.
-
-- <b>entregas</b>: Reúne tudo o que será enviado no portal, como vídeos (ou links), PDFs, arquivos finais, prints de tela e roteiro.
-
-- <b>Ir Além</b>: Nesta pasta deverão ser inseridos as entregas de qualquer Ir Além feito nesta atividade. Caso a equipe opte por não realizar o(s) Ir Além, a pasta pode ser deletada ou deixada vazia.
+- <b>data</b>: Contém os dados utilizados, como arquivos CSV, Excel, JSON, bases sintéticas e etc.
 
 - <b>README.md</b>: Arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
+- <b>Ir Além</b>: pasta onde os arquivos referentes às atividades "Ir Além" devem ser inseridos, evitando misturar com as entregas principais.
 
 
 ‼️ OBSERVAÇÃO DO TUTOR, favor desconsiderar do seu arquivo final: não há obrigação de usar todas as pastas, use apenas o que fizer SENTIDO para a entrega. ‼️

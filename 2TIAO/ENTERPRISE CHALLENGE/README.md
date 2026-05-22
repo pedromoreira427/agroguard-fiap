@@ -10,7 +10,7 @@
 
 <br>
 
-# ENTERPRISE CHALLENGE - Dasa
+# ENTERPRISE CHALLENGE - [NOME DA EMPRESA]
 
 ## Nome do grupo
 
@@ -43,8 +43,6 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>data</b>: Contém os dados utilizados, como arquivos CSV, Excel, JSON, bases sintéticas e amostras geradas.
 
-- <b>entregas</b>: Reúne tudo o que será enviado no portal, como vídeos (ou links), PDFs, arquivos finais, prints de tela e roteiro. Quando for solicitado algum arquivo específico (prints, relatórios, gravações, etc.) a ser entregue no portal, ele também deverá ser inserido na pasta do Sprint atual, dentro de <b>entregas</b>. Cada Sprint possui uma pasta própria para suas entregas.
-
 - <b>README.md</b>: Arquivo que serve como guia e explicação geral sobre a ideia do grupo.
 
 ‼️ OBSERVAÇÃO DO TUTOR, favor desconsiderar do seu arquivo final: não há obrigação de usar todas as pastas, use apenas o que fizer SENTIDO para a entrega. ‼️
@@ -60,7 +58,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>Detalhamento da ideia</b>: Apresentação geral da ideia.
 
-- <b>Avanços e ajustes</b>: Explicação dos ajustes ou progresso feito no projeto em relação ao Sprint anterior. Deve sempre ser atualizado a cada entrega.
+- <b>Avanços e ajustes</b>: Explicação dos ajustes ou progresso feito no projeto em relação ao Sprint anterior. Deve sempre ser atualizado a cada entrega e deve contemplar novos arquivos relevantes.
 
 
 ## 🔧 Como executar o código
