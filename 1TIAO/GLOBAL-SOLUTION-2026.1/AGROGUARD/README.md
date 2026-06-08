@@ -2,13 +2,13 @@
 
 ![FIAP](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fiap_logo.png/200px-Fiap_logo.png)
 
-# 🔥 AgroGuard — Plataforma Inteligente de Previsão de Risco de Queimadas
+# AgroGuard — Plataforma Inteligente de Previsão de Risco de Queimadas
 
 ### Global Solution 2026.1 — Inteligência Artificial aplicada à Economia Espacial
 
 ---
 
-## 👤 Integrante
+## Integrante
 
 | Nome | RM |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O **AgroGuard** é uma plataforma de previsão de risco de queimadas no Cerrado brasileiro, desenvolvida como prova de conceito (POC) para a Global Solution 2026.1 da FIAP.
 
@@ -26,7 +26,7 @@ O resultado é um produto com aplicabilidade B2B real: seguradoras rurais, banco
 
 ---
 
-## 🛰️ Conexão com a Economia Espacial
+##  Conexão com a Economia Espacial
 
 O AgroGuard usa dados do sistema **NASA FIRMS** (Fire Information for Resource Management System), que coleta informações de focos de calor a partir de satélites como o Terra e o Aqua. Esses satélites orbitam a Terra continuamente e detectam radiação infravermelha emitida por incêndios na superfície terrestre.
 
@@ -34,7 +34,7 @@ Combinado com dados climáticos históricos da API **Open-Meteo**, o sistema tra
 
 ---
 
-## 🏗️ Arquitetura da Solução
+##  Arquitetura da Solução
 
 ```
 [NASA FIRMS API]          [Open-Meteo API]
@@ -60,7 +60,7 @@ Combinado com dados climáticos históricos da API **Open-Meteo**, o sistema tra
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 | Item | Detalhe |
 |---|---|
@@ -80,13 +80,13 @@ Combinado com dados climáticos históricos da API **Open-Meteo**, o sistema tra
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 
 O dashboard foi desenvolvido em **Streamlit** e conta com três seções:
 
-- **🎯 Simulador de Risco** — o usuário informa as condições climáticas do dia e recebe a previsão de risco com probabilidades e recomendações de ação
-- **🗺️ Mapa de Focos** — visualização geográfica interativa dos focos de calor detectados por satélite, filtrável por ano e mês
-- **📈 Análise Temporal** — distribuição mensal do risco ao longo dos anos e relação entre temperatura e nível de risco
+- ** Simulador de Risco** — o usuário informa as condições climáticas do dia e recebe a previsão de risco com probabilidades e recomendações de ação
+- ** Mapa de Focos** — visualização geográfica interativa dos focos de calor detectados por satélite, filtrável por ano e mês
+- ** Análise Temporal** — distribuição mensal do risco ao longo dos anos e relação entre temperatura e nível de risco
 
 ---
 
@@ -151,7 +151,7 @@ Execute os notebooks na seguinte ordem:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Tecnologia | Uso |
 |---|---|
